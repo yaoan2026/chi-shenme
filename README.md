@@ -13,4 +13,4 @@
 2. 點下方分享按鈕 → 加入主畫面 → 加入。
 
 ## 更新餐廳資料
-餐廳資料寫在 index.html 裡的 `var DATA = [` 區塊。改完重新上傳 index.html，並把 sw.js 裡的 `chi-shenme-v5` 改成 `chi-shenme-v6`（版本號加一），手機重開就會拿到新版。
+餐廳資料寫在 index.html 裡的 `var DATA = [` 區塊。改完重新上傳 index.html，並把 sw.js 裡的 `chi-shenme-v7` 改成 `chi-shenme-v8`（版本號加一），手機重開就會拿到新版。

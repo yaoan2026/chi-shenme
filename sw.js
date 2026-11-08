@@ -1,5 +1,5 @@
 // 先連網取最新版，連不上時改用上次存下來的版本（沒網路也能開）
-var CACHE = 'chi-shenme-v7';
+var CACHE = 'chi-shenme-v8';
 var ASSETS = ['./', './index.html', './three.min.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
 self.addEventListener('install', function (e) {
